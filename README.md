@@ -50,20 +50,20 @@
 
 ### 藥水
 
-/effect give @p speed 99999 255             # 移動速度提升（速度）
-/effect give @p haste 99999 255             # 加速挖掘（急迫）
-/effect give @p mining_fatigue 99999 255    # 採掘疲勞（挖掘疲勞）
-/effect give @p resistance 99999 255        # 傷害抗性（抗性提升）
-/effect give @p regeneration 99999 255      # 快速恢復（生命再生）
-/effect give @p levitation 99999 255        # 飄浮（漂浮）
-/effect give @p jump_boost 99999 255        # 跳躍提升（跳躍加成）
-/effect give @p health_boost 999999 255     # 額外生命（生命提升）
-/effect give @s slow_falling 999999 255     # 緩降（緩慢降落）
-/effect give @a blindness 99999 255         # 失明（失明）
-/effect give @s slowness 99999 255          # 移動緩慢（緩速）
-/effect give @a night_vision 99999 250      # 夜視（夜視）
-/effect give @p strength 99999 255          # 攻擊力提升（力量）
+* /effect give @p speed 99999 255             # 移動速度提升（速度）
+* /effect give @p haste 99999 255             # 加速挖掘（急迫）
+* /effect give @p mining_fatigue 99999 255    # 採掘疲勞（挖掘疲勞）
+* /effect give @p resistance 99999 255        # 傷害抗性（抗性提升）
+* /effect give @p regeneration 99999 255      # 快速恢復（生命再生）
+* /effect give @p levitation 99999 255        # 飄浮（漂浮）
+* /effect give @p jump_boost 99999 255        # 跳躍提升（跳躍加成）
+* /effect give @p health_boost 999999 255     # 額外生命（生命提升）
+* /effect give @s slow_falling 999999 255     # 緩降（緩慢降落）
+* /effect give @a blindness 99999 255         # 失明（失明）
+* /effect give @s slowness 99999 255          # 移動緩慢（緩速）
+* /effect give @a night_vision 99999 250      # 夜視（夜視）
+* /effect give @p strength 99999 255          # 攻擊力提升（力量）
 
 ### 地獄門材料
-/give @p minecraft:obsidian 10
-/give @p minecraft:flint_and_steel 1
+* /give @p minecraft:obsidian 10
+* /give @p minecraft:flint_and_steel 1
